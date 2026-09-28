@@ -65,6 +65,28 @@ The analysis in this stage is primarily **descriptive**, using Pivot Tables to s
 
 The findings describe patterns in the dataset but do not by themselves establish the causes of changes in inflation.  
 
+## Charts and Visual Analysis
+Three charts were created from the Pivot Tables to visually communicate the main findings from the inflation data:
+
+1. **Average Annual Headline Inflation in Nigeria (2003–2026)**  
+   A column chart showing average annual headline inflation across the years.
+
+2. **Food vs Headline Inflation**  
+   A column chart comparing average food inflation with average headline inflation across the years.
+
+3. **Average Headline Inflation by Month**  
+   A column chart comparing the historical average headline inflation for each month of the year.
+
+   The charts were placed on an `Analysis & Insights` worksheet alongside a summary of the key findings from the analysis.
+
+### Key Visual Insights
+
+- Annual average headline inflation reached its highest level in **2024 at 33.18%**.
+- Food inflation was **5.92 percentage points higher** than headline inflation in 2024.
+- Historical monthly averages were relatively close, with **October recording the highest average at 14.75%** and January the lowest at **14.24%**.
+- The 2026 figures cover January to August only and therefore represent a partial year.
+
+
 
 
 
